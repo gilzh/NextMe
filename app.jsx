@@ -191,7 +191,7 @@ const Header = ({ progress }) => (
       </div>
       <div className="brand-text">
         <div className="brand-name">NextMe</div>
-        <div className="brand-meta">Job-search workflow · v1.0</div>
+        <div className="brand-meta">And where does the newborn go from here?</div>
       </div>
     </div>
 
